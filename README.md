@@ -1,10 +1,10 @@
-# Paper-Aligned MoDEIR
+# MoDEIR
 
 This is an isolated fork of `refined_modeir/`. The original project is left
 unchanged; this folder adjusts only the implementation details that conflicted
 with the camera-ready MoDEIR paper.
 
-## Paper-Aligned Changes
+## Changes
 
 - TSCM uses the paper Eq. (2) latent perturbation path by default:
   `--latent-mode strict_delta`.
